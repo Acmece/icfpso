@@ -129,7 +129,7 @@ int main(int argc, char** argv)
   //stlViz.setModelFileName(modelFileName);
   //stlViz.showModel();
   
-  pmr::stl2pcdConverter converter;
+  /*pmr::stl2pcdConverter converter;
   converter.setInputModel(sampledModel);
   pcl::PointCloud<pcl::PointXYZ>::Ptr modelCloudData(new pcl::PointCloud<pcl::PointXYZ>);
   
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
   {
     std::cout<<">>> convert from stl to pcd finished"<<std::endl;
     std::cout<<">>> total point size "<<modelCloudData->points.size()<<std::endl;
-  }
+  }*/
 
   pcl::PointCloud<pcl::PointXYZ>::Ptr finalCloud(new pcl::PointCloud<pcl::PointXYZ>);
   pcl::transformPointCloud(*cloud,*finalCloud,final_trans);

@@ -180,7 +180,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=pmr
+CMAKE_PROJECT_NAME:STATIC=icfpso
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -488,6 +488,12 @@ RSSDK_LIBRARY_DEBUG:FILEPATH=RSSDK_LIBRARY_DEBUG-NOTFOUND
 
 //The directory containing VTKConfig.cmake
 VTK_DIR:PATH=/usr/lib/vtk-5.10
+
+//Value Computed by CMake
+icfpso_BINARY_DIR:STATIC=/home/acmece/桌面/ICF_PSO-master/build
+
+//Value Computed by CMake
+icfpso_SOURCE_DIR:STATIC=/home/acmece/桌面/ICF_PSO-master
 
 //Value Computed by CMake
 pmr_BINARY_DIR:STATIC=/home/acmece/桌面/ICF_PSO-master/build
