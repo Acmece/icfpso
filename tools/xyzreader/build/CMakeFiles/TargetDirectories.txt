@@ -1,0 +1,3 @@
+/home/acmece/桌面/xyzreader/build/CMakeFiles/edit_cache.dir
+/home/acmece/桌面/xyzreader/build/CMakeFiles/rebuild_cache.dir
+/home/acmece/桌面/xyzreader/build/CMakeFiles/xyzreader.dir
