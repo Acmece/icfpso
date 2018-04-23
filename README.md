@@ -20,7 +20,9 @@ We test on 10 STL models
 
 
 ## Registraton Result
-The point cloud in green: standard pose; The point cloud in white: captured pose; The point cloud in red: searched pose.
+The point cloud in green: standard pose; 
+The point cloud in white: captured pose; 
+The point cloud in red: searched pose. 
 The more accurate the searched results are, the more similar the standard pose and searched pose will be.
 <div style="align: center">
 <img src="https://github.com/Acmece/icfpso/blob/master/registration.png" width="70%" height="70%" />
