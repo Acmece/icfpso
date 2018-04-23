@@ -2,7 +2,9 @@
 This is an algorithm modified for registration of point cloud.
 It combines the icf(iterative closest face) and pso(particle swarm optimization) algorithms. 
 Here is a flowchart of our algorithm:
+<div style="align: center">
 <img src="https://github.com/Acmece/icfpso/blob/master/flowchart.png" width=50% height=50% />
+</div>
 
 You can refer to [poster](https://github.com/Acmece/icfpso/blob/master/poster.pdf) for more information
 
