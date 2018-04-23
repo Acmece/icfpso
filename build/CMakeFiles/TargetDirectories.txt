@@ -1,3 +1,0 @@
-/home/acmece/桌面/ICF_PSO-master/build/CMakeFiles/edit_cache.dir
-/home/acmece/桌面/ICF_PSO-master/build/CMakeFiles/rebuild_cache.dir
-/home/acmece/桌面/ICF_PSO-master/build/CMakeFiles/demo.dir
