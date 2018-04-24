@@ -10,7 +10,7 @@ You can refer to [poster](https://github.com/Acmece/icfpso/blob/master/poster.pd
 
 
 
-## Model
+## Models
 We test on 10 STL models
 <div style="align: center">
 <img src="https://github.com/Acmece/icfpso/blob/master/stlmodel.png" />
@@ -19,7 +19,7 @@ We test on 10 STL models
 
 
 
-## Registraton Result
+## Registration Result
 The point cloud in green: standard pose; 
 The point cloud in white: captured pose; 
 The point cloud in red: searched pose. 
